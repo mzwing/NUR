@@ -31,8 +31,8 @@
             "url": "https://github.com/Adamekka/nur-packages"
         },
         "AndrewKvalheim": {
-            "rev": "f570c348dd056a6e34d04a4289cacf3d9db9f8ce",
-            "sha256": "0syqfbxm8vxpwvm8pvspw9r9zwmd7h2gpa0pwsrp4wlpjdylqm12",
+            "rev": "23aeb772ab334c70e110f97ea6dacc2fb1e64c82",
+            "sha256": "1g80g548ni7fin562xji7d8pqqj3h23mgwc98a7likc5yxx262dv",
             "url": "https://codeberg.org/AndrewKvalheim/configuration"
         },
         "AsterisMono": {
@@ -176,8 +176,8 @@
             "url": "https://github.com/angr/nixpkgs"
         },
         "anthonyroussel": {
-            "rev": "0755e0373f136d8a0241221660d7af64d1b91337",
-            "sha256": "1hzx5v7hyvdcbqnrnqx6cw1n4jk8jjl6m743nwqf22z2msa8pkgz",
+            "rev": "7fa1e8508733bfaf53fbca6555eef3f6023840b3",
+            "sha256": "08d153i1qkx093s2pf5xps82hdfwsrxyhwr5gsfmlvzsl1ck2xv5",
             "url": "https://github.com/anthonyroussel/nur-packages"
         },
         "aprilthepink": {
@@ -893,8 +893,8 @@
             "url": "https://github.com/k0ral/nur-packages"
         },
         "k3a": {
-            "rev": "64dd65f16bfc029424afeb7a8ced1b36f5a5e2f9",
-            "sha256": "0hf1szrrzlqchqd7vc8sljsi6mbg5632k87z7hayksxdsp0n96vx",
+            "rev": "e4bcbeb8ac876feb1c23c98135e7f08880e95c1f",
+            "sha256": "1rzv9g20m758svknxgiy6q9dcxy0fl7m9nhvcmg0r5lzs8h5y3hk",
             "url": "https://github.com/k3a/nurpkgs"
         },
         "kalbasit": {
@@ -1098,8 +1098,8 @@
             "url": "https://github.com/moosingin3space/nur-packages"
         },
         "moraxyc": {
-            "rev": "df80cb9ccf1b36f110bb9dd0767a059d5a0d9fed",
-            "sha256": "1sci3hc6d25v0ag07qq2w4qkvgmrghn61v15h6gdm6qnk6z34gjz",
+            "rev": "b1383e7b2d8d4adf711688bbb2a363be48b3e290",
+            "sha256": "0rydjn95s7ni6b06z3m704wdssbw5v0kw2bbvr7kfd5g7fwi3nyc",
             "url": "https://github.com/moraxyc/nur-packages"
         },
         "moredhel": {
@@ -1259,8 +1259,8 @@
             "url": "https://github.com/ocfox/nur-pkgs"
         },
         "oluceps": {
-            "rev": "477f33160d1f715fd0aa99ad7b53957dadccb3b4",
-            "sha256": "0nqrm13y108nywh4dj1h0yzl2w532fkdp91by8sjx3sj6qr3hlnf",
+            "rev": "feb607d608474c4daf112f63aca737d5e308be20",
+            "sha256": "0fg6qzdzn68wbx49l0idhh7rmbs77lm1mp2vhb6xi5b5mdnp81yh",
             "url": "https://github.com/oluceps/nixos-config"
         },
         "ona-li-toki-e-jan-Epiphany-tawa-mi": {
@@ -1520,8 +1520,8 @@
             "url": "https://github.com/SCOTT-HAMILTON/nur-packages"
         },
         "sigprof": {
-            "rev": "45cf7fe1a3d4aefce8f88397c6c01f8f5d4e1d37",
-            "sha256": "0q71bjw2lsjfqgzr1q6b12gc2b5kpj9h0jcs3c6q3g08dkwr353i",
+            "rev": "fbe9ee67738705684a6d067910ecc4804510c506",
+            "sha256": "0rskigc03washsy014ybvl014j6gjkb7imxivmrdi5jiryhb8wyn",
             "url": "https://github.com/sigprof/nur-packages"
         },
         "sikmir": {
