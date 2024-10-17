@@ -111,8 +111,8 @@
             "url": "https://github.com/Redrield/nurpkgs"
         },
         "Rhys-T": {
-            "rev": "4c6d5c59155477cd705c576040efde05ddd64e56",
-            "sha256": "1lf71v9k51sdllkwq7mzwxa8hznfv0v7gand1an4xj4kjvm3jpad",
+            "rev": "b62d0a9edbc50d55864ae4b80c3436dbca1f4b19",
+            "sha256": "09hq41hpdpjqdwxxfhifhcmnzd3rzvws495rpjjf6bh6z8a25da5",
             "url": "https://github.com/Rhys-T/nur-packages"
         },
         "Samuel-Martineau": {
@@ -186,8 +186,8 @@
             "url": "https://gitlab.com/AlwinB/nur-packages"
         },
         "ambroisie": {
-            "rev": "0547ebc33c8d8891bbbeea44d31d50bc6b5dd01f",
-            "sha256": "0khdyjrr98n6v1grn9w06wf21v69lj8d0p2f2g5h3d2cd0ybzzar",
+            "rev": "a09cef76c5b13c052eeed4b52531516204bd8839",
+            "sha256": "0hqyvnfb1vyrpk3m3j2qpq4205hb9jq99f4x03rk7yqsr5xwg4jz",
             "url": "https://github.com/ambroisie/nix-config"
         },
         "amesgen": {
@@ -583,8 +583,8 @@
             "url": "https://github.com/Eggflaw/nur-packages"
         },
         "eh5": {
-            "rev": "58e4aad043cee0de69e9b87f33a0b10f4a3acd1a",
-            "sha256": "11kqzr7x5apdydw9zz4dnmghmwfasy7km6p5nbm7yy7972s9j94r",
+            "rev": "f11e76a8acaabfcb564fdf0da6b108a621696722",
+            "sha256": "1i2rqi1haph5mz0izkhm9nrhb8q8nxkqv7x3d2w51gakbnijiii5",
             "url": "https://github.com/EHfive/flakes"
         },
         "emiller88": {
@@ -853,8 +853,8 @@
             "url": "https://github.com/Izorkin/nur-packages"
         },
         "j-k": {
-            "rev": "5cffbf4e0f61c1ee4db3e1e441902f1912853426",
-            "sha256": "1iziv5l8dijz45drza20icn3wbd03nls7hqsqfn53n35lgydsn56",
+            "rev": "d77c19ff6bbc3eb56d114caaff6a3c9ff0427b32",
+            "sha256": "1fy0maywkmr5prafcvq23vap0zv8f941w5ylxawqmmmdnmb63n8m",
             "url": "https://github.com/06kellyjac/nur-packages"
         },
         "j4ger": {
@@ -1339,8 +1339,8 @@
             "url": "https://github.com/ocfox/nur-pkgs"
         },
         "oluceps": {
-            "rev": "919364e8c4587a6253d8ac8cfd906884611872af",
-            "sha256": "1y1mf60j6yis8spibdgp241p55p5niy42dq0wa14hnixm239yxzl",
+            "rev": "3cbf9db5586c4266f34becc96483b11b32ce86d6",
+            "sha256": "0a4g9667wsrcvl6p1phhhbw5rbdrcpfzs6i0vfsghrap0sv77bil",
             "url": "https://github.com/oluceps/nixos-config"
         },
         "ona-li-toki-e-jan-Epiphany-tawa-mi": {
@@ -1510,8 +1510,8 @@
             "url": "https://github.com/renesat/nur-renesat"
         },
         "rewine": {
-            "rev": "c934ecc9cb3ff522811a8ea6e5b1a80f7b892663",
-            "sha256": "1fmw2mb818ngqd2j3vzxl0gkvhs9jlizzhmpcamb0j9p07racdh1",
+            "rev": "26d15764fc73cbe699fe71d0aa378d74cc407515",
+            "sha256": "0qhzmjc66a3z4nf6n6v2n7d6612kpl54dfr21kgygdzvkwrcwl1z",
             "url": "https://github.com/wineee/nur-packages"
         },
         "robertodr": {
@@ -1555,8 +1555,8 @@
             "url": "https://github.com/ryan4yin/nur-packages"
         },
         "rycee": {
-            "rev": "68561baa1d58d6b6081369b7089ad09e924458ea",
-            "sha256": "0h9wn7is8w3nx76wy0kzlxch7cwi10ydn8w3fvfc9gcad51hxhai",
+            "rev": "fb7273920513b4c1ef70a79a83f87292b54ae91a",
+            "sha256": "0nl9sk4wgacbhx7gk0xkhrk2bxnr2q3mdd3yxyxrqpsxkf3d35dh",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sagikazarmark": {
